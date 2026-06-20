@@ -1,5 +1,7 @@
 # whoop-py
 
+[![PyPI](https://img.shields.io/pypi/v/whoop-py)](https://pypi.org/project/whoop-py/)
+
 Python client for the [WHOOP API](https://developer.whoop.com/api) with OAuth 2.0 support and token persistence.
 
 ## Installation
@@ -135,4 +137,4 @@ api = WhoopAPI(scopes={"offline", "read:sleep", "read:recovery"})
 
 ## License
 
-MIT
+MIT — see [LICENSE](LICENSE)
